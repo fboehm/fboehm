@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: frederick.boehm@gmail.com
 - 😄 Pronouns: He, him, and his
 - ⚡ Fun fact: NA
--->
