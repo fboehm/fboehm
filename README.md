@@ -7,13 +7,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on polygenic scores for quantitative traits  
+- 🌱 I’m currently learning to write C++ code with Armadillo  
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with writing C++ code with Armadillo
-<!--
-- 💬 Ask me about ...
--->
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about backpacking in the Grand Canyon
 - 📫 How to reach me: frederick.boehm@gmail.com
-- 😄 Pronouns: He, him, and his
 - ⚡ Fun fact: NA
