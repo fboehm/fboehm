@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on polygenic scores for quantitative traits  
+- 🔭 I’m currently working on polygenic scores  
 - 🌱 I’m currently learning to write C++ code with Armadillo and to document C++ code with doxygen.  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
