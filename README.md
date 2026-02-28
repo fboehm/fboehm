@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about backpacking in the Grand Canyon
-- 📫 How to reach me: frederick.boehm@gmail.com
+- 📫 How to reach me: @fboehm
 - ⚡ Fun fact: NA
